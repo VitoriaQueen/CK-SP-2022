@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bumbo\\Documents\\Code Louisville\\SP2022\\Console App\\CKConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\tiave\\Documents\\CodeKentuckyC#\\gitTest\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bumbo\\Documents\\Code Louisville\\SP2022\\Console App\\CKConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\tiave\\Documents\\CodeKentuckyC#\\gitTest\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bumbo\\Documents\\Code Louisville\\SP2022\\Console App\\CKConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\tiave\\Documents\\CodeKentuckyC#\\gitTest\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\bumbo\\Documents\\Code Louisville\\SP2022\\Console App\\CKConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\bumbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bumbo\\Documents\\Code Louisville\\SP2022\\Console App\\CKConsoleApp\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\tiave\\Documents\\CodeKentuckyC#\\gitTest\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\tiave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiave\\Documents\\CodeKentuckyC#\\gitTest\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bumbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tiave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
